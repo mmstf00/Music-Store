@@ -183,7 +183,7 @@ void ShowAllItems()
         exit(0);
     }
 }
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+
 void AddNewItemInDatabase()
 {
     // Initial Load
@@ -256,7 +256,7 @@ void AddNewItemInDatabase()
         exit(0);
     }
 }
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+
 void ItemInStock()
 {
     system("cls");
@@ -564,7 +564,7 @@ ExitMenu:
         exit(0);
     }
 }
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+
 void RemoveItem()
 {
     system("cls");
@@ -670,7 +670,7 @@ ExitMenu:
         exit(0);
     }
 }
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+
 void CreateOrder()
 {
     system("cls");
@@ -895,7 +895,7 @@ CHOOSEEDITORBUY:
         exit(0);
     }
 }
-// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
+
 void SoldItems()
 {
 
