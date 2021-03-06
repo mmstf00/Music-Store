@@ -1,5 +1,3 @@
-﻿// Music Store Manangement System in C++ Design and Developed by CodeWithC.com
-
 #include<iostream>
 #include<cstdio>
 #include<fstream>
